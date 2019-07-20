@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.pwittchen:prefser-rx2:2.2.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/prefser-rx2-2.2.2.aar/63c4aa3024c1ace880769d2b9aea61be/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/prefser-rx2-2.2.2.aar/63c4aa3024c1ace880769d2b9aea61be/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.pwittchen/prefser-rx2/2.2.2/92642aa600c136eadba70b65691ce07358383ae2/prefser-rx2-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
